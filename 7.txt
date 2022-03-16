@@ -1,0 +1,7 @@
+[[!msProducts?
+     &parents=`[[*id]]`
+    &tpl=`tplZapchastCard`
+    &includeThumbs=`productPhoto_cart`
+     &sortby=`{"menuindex":"idx"}`
+    &limit=`0`
+]]
